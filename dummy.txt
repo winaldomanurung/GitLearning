@@ -1,1 +1,2 @@
 Aku adalah commit pertama.
+Aku adalah commit kedua.
